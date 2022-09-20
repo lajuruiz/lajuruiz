@@ -1,4 +1,6 @@
-### Hi there 👋,  I'm Laura
+### Hi there ![image](https://user-images.githubusercontent.com/76414693/191313970-81163ec7-d403-42e4-a5d2-35868d18c6e5.png),  I'm Laura
+
+
 
 
 
