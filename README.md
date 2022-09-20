@@ -21,5 +21,7 @@ Languages and Tools
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lajuruiz&hide=python&layout=compact&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lajuruiz&hide=python&layout=compact&show_icons=true&theme=dark)
+
 🤝🏻 Connect with Me
 
