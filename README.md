@@ -9,6 +9,8 @@
 Languages and Tools
 
 - Javascript
+- Java
+- Spring
 - HTML 
 - CSS 
 - Visual Studio Code 
